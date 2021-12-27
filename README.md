@@ -14,12 +14,6 @@ This is an open decentralized NFT Marketplace built with smart contracts powered
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### The repository
-
-First, you will need to `clone` or `fork` the repository into your Github account:
-
-<img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
-
 ```
 $ git clone https://github.com/miquelTC/nft-marketplace.git
 ```
