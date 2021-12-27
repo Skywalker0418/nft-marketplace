@@ -15,7 +15,7 @@ This is an open decentralized NFT Marketplace built with smart contracts powered
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```
-$ git clone https://github.com/miquelTC/nft-marketplace.git
+$ git clone https://github.com/SunTeco/nft-marketplace.git
 ```
 
 ### Installing
